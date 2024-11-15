@@ -1,0 +1,14 @@
+/home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/bin/Debug/net8.0/dsa
+/home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/bin/Debug/net8.0/dsa.deps.json
+/home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/bin/Debug/net8.0/dsa.runtimeconfig.json
+/home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/bin/Debug/net8.0/dsa.dll
+/home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/bin/Debug/net8.0/dsa.pdb
+/home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/obj/Debug/net8.0/dsa.GeneratedMSBuildEditorConfig.editorconfig
+/home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/obj/Debug/net8.0/dsa.AssemblyInfoInputs.cache
+/home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/obj/Debug/net8.0/dsa.AssemblyInfo.cs
+/home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/obj/Debug/net8.0/dsa.csproj.CoreCompileInputs.cache
+/home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/obj/Debug/net8.0/dsa.dll
+/home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/obj/Debug/net8.0/refint/dsa.dll
+/home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/obj/Debug/net8.0/dsa.pdb
+/home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/obj/Debug/net8.0/dsa.genruntimeconfig.cache
+/home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/obj/Debug/net8.0/ref/dsa.dll
