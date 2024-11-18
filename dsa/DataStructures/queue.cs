@@ -18,52 +18,52 @@ public class Node<T>
 public class MyQueue<T>()
 {
     public int lenght { get; set; } = 0;
-    private Node<T>? head { get; set; } = null;
-    private Node<T>? tail { get; set; } = null;
+    private Node<T>? front { get; set; } = null;
+    private Node<T>? end { get; set; } = null;
 
 
     public T enqueue(T item)
     {
         Node<T> node = new Node<T>(item);
         this.lenght++;
-        if (this.tail == null)
+        if (this.end == null)
         {
-            this.head = node;
-            this.tail = this.head;
+            this.front = node;
+            this.end = this.front;
             return item;
         }
 
-        this.tail.next = node;
-        this.tail = node;
+        this.end.next = node;
+        this.end = node;
         return item;
     }
 
     public T dequeue()
     {
-        T item = head.value;
+        T item = front.value;
 
-        if (this.head.value == null)
+        if (this.front.value == null)
         {
             throw new Exception("Queue empty");
         }
         else
         {
             this.lenght--;
-            Node<T> head = this.head;
-            this.head = this.head.next;
-            return head.value;
+            Node<T> front = this.front;
+            this.front = this.front.next;
+            return front.value;
         }
     }
 
     public T Peek()
     {
-        if (this.head.value == null)
+        if (this.front.value == null)
         {
             throw new Exception("Queue empty");
         }
         else
         {
-            return this.head.value;
+            return this.front.value;
         }
     }
 }
