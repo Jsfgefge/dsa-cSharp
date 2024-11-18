@@ -13,3 +13,18 @@
 /home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/obj/Debug/net8.0/dsa.genruntimeconfig.cache
 /home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/obj/Debug/net8.0/ref/dsa.dll
 /home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/obj/Debug/net8.0/dsa.sourcelink.json
+C:\Users\PC\Documents\New folder\dsa-cSharp\dsa\bin\Debug\net8.0\dsa.exe
+C:\Users\PC\Documents\New folder\dsa-cSharp\dsa\bin\Debug\net8.0\dsa.deps.json
+C:\Users\PC\Documents\New folder\dsa-cSharp\dsa\bin\Debug\net8.0\dsa.runtimeconfig.json
+C:\Users\PC\Documents\New folder\dsa-cSharp\dsa\bin\Debug\net8.0\dsa.dll
+C:\Users\PC\Documents\New folder\dsa-cSharp\dsa\bin\Debug\net8.0\dsa.pdb
+C:\Users\PC\Documents\New folder\dsa-cSharp\dsa\obj\Debug\net8.0\dsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\New folder\dsa-cSharp\dsa\obj\Debug\net8.0\dsa.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\New folder\dsa-cSharp\dsa\obj\Debug\net8.0\dsa.AssemblyInfo.cs
+C:\Users\PC\Documents\New folder\dsa-cSharp\dsa\obj\Debug\net8.0\dsa.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\New folder\dsa-cSharp\dsa\obj\Debug\net8.0\dsa.sourcelink.json
+C:\Users\PC\Documents\New folder\dsa-cSharp\dsa\obj\Debug\net8.0\dsa.dll
+C:\Users\PC\Documents\New folder\dsa-cSharp\dsa\obj\Debug\net8.0\refint\dsa.dll
+C:\Users\PC\Documents\New folder\dsa-cSharp\dsa\obj\Debug\net8.0\dsa.pdb
+C:\Users\PC\Documents\New folder\dsa-cSharp\dsa\obj\Debug\net8.0\dsa.genruntimeconfig.cache
+C:\Users\PC\Documents\New folder\dsa-cSharp\dsa\obj\Debug\net8.0\ref\dsa.dll

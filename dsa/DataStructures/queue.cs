@@ -22,7 +22,7 @@ public class MyQueue<T>()
     private Node<T>? end { get; set; } = null;
 
 
-    public T enqueue(T item)
+    public void enqueue(T item)
     {
         Node<T> node = new Node<T>(item);
         this.lenght++;
@@ -30,12 +30,12 @@ public class MyQueue<T>()
         {
             this.front = node;
             this.end = this.front;
-            return item;
+            return;
         }
 
         this.end.next = node;
         this.end = node;
-        return item;
+        return;
     }
 
     public T dequeue()
@@ -49,7 +49,7 @@ public class MyQueue<T>()
         else
         {
             this.lenght--;
-            Node<T> front = this.front;
+            Node<T>? front = this.front;
             this.front = this.front.next;
             return front.value;
         }
