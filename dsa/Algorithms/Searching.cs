@@ -1,7 +1,8 @@
 namespace dsa.Algorithms;
+
 public class Searching
 {
-    public bool LinearSort(int[] arr, int v)
+    public bool LinearSearch(int[] arr, int v)
     {
         for (int i = 0; i < arr.Length; i++)
         {
@@ -14,7 +15,7 @@ public class Searching
         return false;
     }
 
-    public bool BinarySort(int[] arr, int lo, int up, int n)
+    public bool BinarySearch(int[] arr, int lo, int up, int n)
     {
         while (lo < up)
         {

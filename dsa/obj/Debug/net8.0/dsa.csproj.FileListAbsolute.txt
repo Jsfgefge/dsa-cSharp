@@ -12,3 +12,4 @@
 /home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/obj/Debug/net8.0/dsa.pdb
 /home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/obj/Debug/net8.0/dsa.genruntimeconfig.cache
 /home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/obj/Debug/net8.0/ref/dsa.dll
+/home/jsfgefge/Documents/Progra/noGit/cSharp/dsa/dsa/obj/Debug/net8.0/dsa.sourcelink.json
