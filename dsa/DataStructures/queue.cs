@@ -3,12 +3,12 @@ using System.Xml;
 
 namespace dsa.DataStructures;
 
-public class Node<T>
+public class QNode<T>
 {
     public T value { get; set; }
-    public Node<T>? next { get; set; }
+    public QNode<T>? next { get; set; }
 
-    public Node(T _value, Node<T>? _next = null)
+    public QNode(T _value, QNode<T>? _next = null)
     {
         value = _value;
         next = _next;
@@ -18,13 +18,13 @@ public class Node<T>
 public class MyQueue<T>()
 {
     public int lenght { get; set; } = 0;
-    private Node<T>? front { get; set; } = null;
-    private Node<T>? end { get; set; } = null;
+    private QNode<T>? front { get; set; } = null;
+    private QNode<T>? end { get; set; } = null;
 
 
     public void enqueue(T item)
     {
-        Node<T> node = new Node<T>(item);
+        QNode<T> node = new QNode<T>(item);
         this.lenght++;
         if (this.end == null)
         {
@@ -49,7 +49,7 @@ public class MyQueue<T>()
         else
         {
             this.lenght--;
-            Node<T>? front = this.front;
+            QNode<T>? front = this.front;
             this.front = this.front.next;
             return front.value;
         }

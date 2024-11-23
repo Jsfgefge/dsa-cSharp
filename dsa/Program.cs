@@ -21,35 +21,38 @@ class Program
         // Console.WriteLine(search.LinearSearch(arr,43));
         // Console.WriteLine(search.BinarySearch(arr, 0, arr.Length - 1, searchV));
 
-        foreach (var i in sort.BubbleSort(arr))
-        {
-            // Console.Write(i + " ");
-        }
+        // foreach (var i in sort.BubbleSort(arr))
+        // {
+        //     Console.Write(i + " ");
+        // }
 
         #endregion
-
-
+        
         #region DataStructures
 
-        DataStructures.MyQueue<string> myQ = new();
+        // DataStructures.MyQueue<string> myQ = new();
 
-        myQ.enqueue("hola");
-        myQ.enqueue("hola1");
-        myQ.enqueue("hola2");
-        myQ.enqueue("hola3");
-        myQ.enqueue("hola4");
+        // myQ.enqueue("hola");
+        // myQ.enqueue("hola1");
+        // myQ.enqueue("hola2");
+        // myQ.enqueue("hola3");
+        // myQ.enqueue("hola4");
+        //
+        // Console.WriteLine(myQ.Peek());
+        // Console.WriteLine(myQ.dequeue());
+        //
+        // Console.WriteLine(myQ.Peek());
+        // Console.WriteLine(myQ.dequeue());
+        //
+        // Console.WriteLine(myQ.Peek());
+        // Console.WriteLine(myQ.dequeue());
+        //
+        // Console.WriteLine(myQ.Peek());
 
-        Console.WriteLine(myQ.Peek());
-        Console.WriteLine(myQ.dequeue());
-
-        Console.WriteLine(myQ.Peek());
-        Console.WriteLine(myQ.dequeue());
-
-        Console.WriteLine(myQ.Peek());
-        Console.WriteLine(myQ.dequeue());
-
-        Console.WriteLine(myQ.Peek());
-
+        
+        
+        
+        
         #endregion
     }
 }
